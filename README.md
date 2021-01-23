@@ -11,6 +11,6 @@
 
 
 ## 🧰 Languages and Tools:
-
+![C](./C.svg)
 
 ## ✉️ Find me on:
