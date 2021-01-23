@@ -8,9 +8,3 @@
 * 🎓 Currently studying at Kocaeli University. Electronics and Communication.
 
 </h3>
-
-
-## 🧰 Languages and Tools:
-![C](./C.svg)
-
-## ✉️ Find me on:
