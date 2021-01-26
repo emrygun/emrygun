@@ -3,8 +3,7 @@
 <h3>
   
 * 🔥 Love Linux, Microprocessors, Web Development, Internet of Things.
-* 🌱 Currently learning web development and advanced OOP concepts.
-* ⚡ Love low level stuff and web.
+* 🌱 Learning web development and advanced OOP concepts.
 * 🎓 Currently studying at Kocaeli University. Electronics and Communication.
 
 </h3>
