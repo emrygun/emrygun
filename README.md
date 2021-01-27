@@ -16,6 +16,8 @@
 </p>
 </h3>
 
+<br/>
+
 # 🔧 Technologies & Tools
 <p align=left width="50px">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
