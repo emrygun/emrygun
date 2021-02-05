@@ -1,4 +1,4 @@
-# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# Hello there!
 <h3>My name is Emre and I'm a prospect software engineer. I mostly develop stuff with C, C++ and Java.</h3>
 <h3>
   
