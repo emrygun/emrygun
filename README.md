@@ -28,7 +28,7 @@
 </p>
 
 <h4> 
-  OS: Debian 4.19<br/>
+  OS: Debian 10<br/>
   Window Manager: i3-gaps<br/>
   Editor: NeoVim<br/>
   <a href="https://github.com/emrygun/emrygun_dotfiles">My Dotfiles</a>
