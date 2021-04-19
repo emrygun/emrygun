@@ -3,7 +3,7 @@
 <h3>
   
 * 🔥 Love Linux, Microprocessors, Web Development, Internet of Things.
-* 🌱 Currently learning Web Development, Design Patterns and Algorithms.
+* 🌱 Currently learning Web Development, *Design Patterns and Algorithms.
 * 🎓 Currently studying at Kocaeli University. Electronics and Communication.
 </h3>
 
