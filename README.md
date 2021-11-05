@@ -1,5 +1,5 @@
 # Hello there!
-<h3>My name is Emre and I'm a prospect software engineer. I mostly develop stuff with Java.</h3>
+<h3>My name is Emre and I'm a software engineer. I mostly develop stuff with Java.</h3>
 <h3>
   
 * 🔥 Love Linux, Microprocessors, Web Development, Internet of Things.
