@@ -23,9 +23,7 @@
 ---
 
 ## 🔧 Technologies & Tools
-<h5> 
   OS: Debian 10<br/>
   Window Manager: i3wm<br/>
   Editor: NeoVim<br/>
   <a href="https://github.com/emrygun/emrygun_dotfiles">My Dotfiles and Installer Script</a>
-</h5>
