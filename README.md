@@ -12,7 +12,7 @@
 
 ---
 
-#### Some demo/hoby projects not written on Java
+#### Some demo/hoby projects not developed with Java
 * Chip-8 Interpreter-Debugger: [Repo Link](https://github.com/emrygun/chip8-interpreter-debugger)
 * Tweet Location Prediction: [Repo Link](https://github.com/emrygun/tweet-location-prediction)
 * Pathfinding Visualizer: [Repo Link](https://github.com/emrygun/pathfinding-visualizer) | [Website](https://emrygun.github.io/pathfinding-visualizer/)
