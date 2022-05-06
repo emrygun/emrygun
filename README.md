@@ -8,7 +8,6 @@
 * 🖥️ Working as __Java Web Developer__
 * 🔥 Love __Linux__, __Framework and Web Development__.
 * 🎓 Currently studying  __Electronics and Communication__ at Kocaeli University.
-* ⚡ Currently working on __Backend Development and Microservices with Java__.
 
 ---
 
