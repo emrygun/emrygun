@@ -4,4 +4,3 @@ My name is **Emre** and I'm a sorftware developer mostly focused on **Backend De
 
 - [LinkedIn](https://www.linkedin.com/in/emrygun/)
 - [Twitter](https://twitter.com/emrygun)
-- [Github](https://github.com/emrygun)
